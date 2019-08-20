@@ -10,6 +10,6 @@ Inside of Thermos:
 
 ![Inside of Thermos](https://lh3.googleusercontent.com/8G55bDOQs1G_Tn28L1XpvNXu-b9EJSa1GLANf3czst7Y8kJCHTHpkdbQn3Q4tdJLEIx4cnv97GBbd8tDeHQ7BNTytXE1udFGuEwffIrSBmdQT_WlVt5PlBMQpsF92Ao-Mjq-4SPW_qs=w300)
 
-Image of one notable iteration:
+Image of one notable iteration where Silica Aerogel was put into the 3d printed container:
 
 ![Image2 of Thermos](https://lh3.googleusercontent.com/dR0mIBBRGrs6uJnVncebIWo60o_wO7ochfucBzeIjCdzFMLKcYNIFq9C-3Cze3mz5WI4WWURcGWZjhYZOv1VQckFPApMHgnKje1qTcTgbHwuJzxENqkahZC3sdmpEvjnTxOhqEiT3eY=w300)
